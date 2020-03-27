@@ -8,9 +8,9 @@ import ErrorBoundary from '../components/ErrorBoundary';
 
 import { setSearchField } from '../actions';
 
-const mapStateToProps = (state) => {
+const mapStateToProps = state => {
   return{
-    searchField: state.searchRobots.searchField
+    searchField: state.searchField
   }
 }
 
