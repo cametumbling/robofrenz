@@ -1,1 +1,1 @@
-A rolodex of robots built using React with Redux, fetching from an API of friendly robots. Blerpbloop!!!
+A searchable, responsive rolodex of robots built using React with Redux, fetching from an API of friendly robots. Blerpbloop!!!
