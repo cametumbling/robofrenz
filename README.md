@@ -1,1 +1,1 @@
-This is a basic React app showing robot friends...like Facebook but for robots! Blerpbloopawwwwww.... :)
+A rolodex of robots built using React with Redux, fetching from an API of friendly robots. Blerpbloop!!!
